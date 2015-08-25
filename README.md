@@ -2,7 +2,7 @@
 A C++ list with usefull methods.
 
 Here's how to use it :
-
+```c++
     void test()
     {
         // In order to display the results
@@ -45,3 +45,4 @@ Here's how to use it :
         // There is also a popFirstValue and a popLastValue methods.
         Serial.println(a.pop(2));
     }
+```
