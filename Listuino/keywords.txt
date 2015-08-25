@@ -16,3 +16,10 @@ insertValue KEYWORD2
 removeValue KEYWORD2
 pop KEYWORD2
 getLength   KEYWORD2
+ListElement KEYWORD1
+getValue    KEYWORD2
+setValue    KEYWORD2
+setPrevious KEYWORD2
+getPrevious KEYWORD2
+setNext KEYWORD2
+getNext KEYWORD2
